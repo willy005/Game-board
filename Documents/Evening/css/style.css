@@ -1,0 +1,27 @@
+body{
+  background: black;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  color: green;
+  letter-spacing: 0.2em;
+  font-style: italic;
+}
+
+p{
+  color: crimson;
+}
+
+a{
+  text-decoration: none;
+}
+
+em{
+  color: green;
+}
+
+strong{
+  color: blue;
+}
