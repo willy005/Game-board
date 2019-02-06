@@ -18,15 +18,25 @@ a{
   text-decoration: none;
 }
 
-em{
+em1{
   color: green;
 }
 
-strong{
+strong1{
   color: blue;
+  font-style: italic;
 }
 
 img{
   align-self: auto;
   width: auto;
+}
+
+em2{
+  color: yellow;
+}
+
+strong2{
+  color: grey;
+  font-style: oblique;
 }
