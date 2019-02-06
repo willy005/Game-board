@@ -25,3 +25,8 @@ em{
 strong{
   color: blue;
 }
+
+img{
+  align-self: auto;
+  width: auto;
+}
