@@ -1,0 +1,17 @@
+.column{
+  width:450px;
+  float: left;
+  background: red;
+  padding-right: 20px;
+}
+
+.sidebar{
+  width: 250px;
+  float: right;
+  background: purple;
+  border-radius: 10px;
+}
+img{
+  width: auto;
+  object-position: 50% 50%;
+}
